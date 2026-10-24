@@ -10,6 +10,6 @@ Add the Contents of [`ublock-origin-static-filter.txt`](ublock-origin-static-fil
 
 ## License
 
-This Project Is Licensed Under the MIT License:
+This Project Is Licensed Under the `MIT` License:
 
 - [MIT](LICENSE)
