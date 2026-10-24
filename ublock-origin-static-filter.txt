@@ -1,0 +1,17 @@
+! ==============================================================================
+! GitHub - Hide Latest Commit Elements
+! ==============================================================================
+
+! [ Rule 1: Hide Latest Commit Summary Box ]
+
+github.com##[class*="LatestCommit-module_smRmyW_Box_1"]:style(visibility: hidden !important;)
+
+! [ Rule 2: Hide Latest Commit - Title & Message]
+
+! > Title <
+github.com##.hide-sm [class*="prc-Truncate-Truncate-"] .text-bold:style(visibility: hidden !important;)
+
+! > Message <
+github.com##[id^="folder-row-"] [class*="react-directory-commit-message"]:style(visibility: hidden !important;)
+
+! ==============================================================================
