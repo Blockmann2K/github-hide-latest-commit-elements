@@ -2,7 +2,7 @@
 
 uBlock Origin Filter for GitHub That:
 
-- Hides the Latest Commit Elements (Summary Box, Title and Message) for an Easier Glance.
+- Hides the Latest Commit Elements (Summary Box, Message and Age) for an Easier Glance.
 
 ## Installation
 
